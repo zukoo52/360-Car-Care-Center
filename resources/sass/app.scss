@@ -1,0 +1,36 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+//fontawesome
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/brands';
+
+.icon-button,
+.icon-button * {
+
+    font-size: 18px;
+    cursor: pointer;
+    margin: 0 5%;
+    transition: color 0.5s, transform 0.2s;
+
+    &:hover,
+    &:hover * {
+        color: #ff744a !important;
+        z-index: 1000;
+    }
+
+    &:active, &:active * {
+        color: #721b01 !important;
+        z-index: 1000;
+    }
+}
+
+
