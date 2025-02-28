@@ -22,7 +22,7 @@ The **UI design** reflects a **modern, clean, and user-friendly interface**, foc
 ✅ **Employee & Role Management** – Define user roles with secure access.  
 ✅ **Reports & Analytics** – Generate performance insights and revenue tracking.  
 
-🔗 **[UI Preview]**: *See the interface in action above!*  
+🔗 **![Image](https://github.com/user-attachments/assets/9028e66c-3262-40b5-a535-5bbd59bc6cd8)**: *See the interface in action above!*  
 
 ---
 
@@ -58,7 +58,7 @@ The **backend** is designed for **scalability, performance, and security**, foll
 ### **🔹 Installation Steps**  
 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/360-car-care-center.git
+git clone https://github.com/zukoo52/360-Car-Care-Center.git
 cd 360-car-care-center
 ```
   
@@ -101,7 +101,7 @@ This project is **open-source** and available under the **MIT License**.
 ---
 
 ## 📬 **Contact & Support**  
-For any inquiries, feel free to reach out via **GitHub Issues** or email at `your.email@example.com`.  
+For any inquiries, feel free to reach out via **GitHub Issues** or email at `Malingasadharuwan@gmail.com`.  
 
 ---
 
