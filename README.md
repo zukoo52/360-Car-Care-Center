@@ -2,7 +2,7 @@
 
 # 🚗 **360 Car Care Center - ERP System**  
 
-![UI Design](https://github.com/user-attachments/assets/34ad64f7-7142-4f18-81e6-11445ef68f85)  
+![UI Design]![Image](https://github.com/user-attachments/assets/9028e66c-3262-40b5-a535-5bbd59bc6cd8) 
 
 ## 📌 **Overview**  
 **360 Car Care Center** is a full-stack **ERP system** designed for **automobile service centers** to efficiently manage **customers, appointments, services, inventory, and billing**. Built using **Laravel (backend) and Vue (Blade templates) (frontend)**, this system offers a **seamless** and **scalable** solution for businesses handling vehicle maintenance and repair services.  
@@ -22,7 +22,7 @@ The **UI design** reflects a **modern, clean, and user-friendly interface**, foc
 ✅ **Employee & Role Management** – Define user roles with secure access.  
 ✅ **Reports & Analytics** – Generate performance insights and revenue tracking.  
 
-🔗 **![Image](https://github.com/user-attachments/assets/9028e66c-3262-40b5-a535-5bbd59bc6cd8)**: *See the interface in action above!*  
+🔗 **UI DESIGN**: *See the interface in action above!*  
 
 ---
 
